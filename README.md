@@ -1,11 +1,11 @@
 # full-stack-assignment-1-git
 
-### Assignment Title: **Creating a Portfolio with GitHub README.md**
+## Assignment Title: **Creating a Portfolio with GitHub README.md**
 
 
-#### Instructions:
+### Instructions:
 
-##### Step 1: Set Up Your GitHub Repository
+#### Step 1: Set Up Your GitHub Repository
 1. **Create a New GitHub Repository**:
    - Log in to your GitHub account.
    - Click on the new repository button.
@@ -14,7 +14,7 @@
    - Initialize it with a `README.md` file.
    - Click "Create repository".
 
-##### Step 2: Edit Your README.md
+#### Step 2: Edit Your README.md
 2. **Modify the README.md**:
    - Click on your repository name, then click on the `README.md` file.
    - Click the pencil icon to edit the file.
@@ -29,12 +29,12 @@
    - Use lists, headers, images, and links to enhance the readability and attractiveness of your portfolio.
    - Commit your changes by clicking "Commit changes" at the bottom of the page.
 
-##### Step 3: Customize and Enhance
+#### Step 3: Customize and Enhance
 3. **Further Customizations**:
    - Explore adding other elements to your README, such as badges, emojis, or GIFs to make your portfolio more engaging.
    - Consider embedding images, such as a profile photo or graphics that represent your skills and projects.
 
-##### Step 4: Share and Feedback
+#### Step 4: Share and Feedback
 4. **Share Your Portfolio**:
    - Share your portfolio with peers and mentors to receive feedback.
    - Post your portfolio link to professional social networks like LinkedIn and get real-world feedback.
